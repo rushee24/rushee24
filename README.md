@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushee24&label=Profile%20views&color=0e75b6&style=flat" alt="rushee24" /> </p>
 
-- 🌱 I’m currently learning **java full stack developer**
+- 🌱 I’m currently learning **java **
 
 - 💬 Ask me about **Java ,C++,C**
 
