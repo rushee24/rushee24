@@ -1,180 +1,28 @@
-<!DOCTYPE html>
-<html lang="en">
+<h1 align="center">Hi 👋, I'm Rushikesh khillare</h1>
+<h3 align="center">A passionate java full stack developer</h3>
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Rushikesh khillare </title>
-</head>
-<link href="https://fonts.googleapis.com/css?family=Baloo+Bhai&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="css/style.css">
-<style>
-    /* CSS Reset */
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rushee24&label=Profile%20views&color=0e75b6&style=flat" alt="rushee24" /> </p>
 
-    body {
-        font-family: 'Baloo Bhai', cursive;
-        color: rgb(0, 0, 0);
-        margin: 0px;
-        padding: 0px;
-        background: url("https://th.bing.com/th/id/R.b0941ae049cfe1242b875ee0ea722236?rik=TmhTt6vbVP7Rsg&riu=http%3a%2f%2fwww.lionleaf.com%2fwp-content%2fuploads%2f2014%2f11%2f1415275_22821821.jpg&ehk=7bK0H1iqq%2fkS48m0bbON6BfPoegjSZFfXu%2bC3ztcrvI%3d&risl=&pid=ImgRaw&r=0");
-    }
+- 🌱 I’m currently learning **java full stack developer**
 
-    .left {
-        display: inline-block;
-        /* border: 2px solid red; */
-        position: absolute;
-        left: 60px;
-        top: 20px;
-    }
+- 💬 Ask me about **Java ,C++,C**
 
-    .left img {
-        width: 136px;
-        filter: invert(100%);
-    }
+- 📫 How to reach me **rushee3800@gmail.co**
 
-    .left div {
-        line-height: 19px;
-        font-size: 26px;
-        text-align: center;
-    }
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/rushikesh-khillare-529995199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rushikesh-khillare-529995199" height="30" width="40" /></a>
+</p>
 
-    .mid {
-        display: block;
-        width: 20%;
-        margin: 20px auto;
-        color: black
-        /* border: 2px solid green; */
-    }
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
 
-    .right {
-        position: absolute;
-        right: 34px;
-        top: 43px;
-        display: inline-block;
-        /* border: 2px solid yellow; */
-    }
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rushee24&show_icons=true&locale=en&layout=compact" alt="rushee24" /></p>
 
-    .navbar {
-        display: inline-block;
-        display: flex;
-    }
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rushee24&show_icons=true&locale=en" alt="rushee24" /></p>
 
-    .navbar li {
-        display: inline-block;
-        font-size: 25px;
-    }
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rushee24&" alt="rushee24" /></p>
 
-    .navbar li a {
-        color: white;
-        text-decoration: none;
-        padding: 34px 23px;
-    }
-
-    .navbar li a:hover,
-    .navbar li a.active {
-        justify-content: space-between;
-        text-decoration: underline;
-        color: rgb(12, 9, 9);
-    }
-
-    .btn {
-        font-family: 'Baloo Bhai', cursive;
-        margin: 0px 9px;
-        background-color: black;
-        color: white;
-        padding: 4px 14px;
-        border: 2px solid grey;
-        border-radius: 10px;
-        font-size: 20px;
-        cursor: pointer;
-    }
-
-    .btn:hover {
-        background-color: rgb(196, 13, 13);
-    }
-
-    .container {
-        border: 2px solid rgb(209, 9, 9);
-        margin: 106px 80px;
-        padding: 75px;
-        width: 80%;
-        text-align: center;
-        border-radius: 28px;
-    }
-
-    .form-group input {
-        font-family: 'Baloo Bhai', cursive;
-        text-align: center;
-        display: block;
-        width: 508px;
-        padding: 1px;
-        border: 2px solid rgb(199, 24, 24);
-        margin: 11px auto;
-        font-size: 25px;
-        border-radius: 8px;
-    }
-
-    .container h1 {
-        text-align: center;
-    }
-
-    .container button {
-        display: block;
-        width: 74%;
-        margin: 20px auto;
-    }
-
-    .navbar.li {
-        text-align: center;
-    }
-</style>
-
-<body>
-    <header class="header">
-        <!-- Left box for logo -->
-        <div class="left">
-            <div>Rushikesh Khillare</div>
-        </div>
-        <!-- Mid box for navbar -->
-        <div class="mid">
-            <ul class="navbar">
-                <li><a href="#" class="active">Home</a></li>
-                <li><a href="#">About </a></li>
-                <li><a href="#">Contact </a></li>
-            </ul>
-        </div>
-
-        <!-- Right box for buttons -->
-        <div class="right">
-            <button class="btn">Call Us Now</button>
-            <button class="btn">Email Us</button>
-        </div>
-    </header>
-    <div class="container">
-        <h1>Student basic information collection form</h1>
-        <form action="noaction.php">
-            <div class="form-group">
-                <input type="text" name="" placeholder="Enter your Name">
-            </div>
-            <div class="form-group">
-                <input type="text" name="" placeholder="Enter your Age">
-            </div>
-            <div class="form-group">
-                <input type="text" name="" placeholder="Enter your Gender">
-            </div>
-            <div class="form-group">
-                <input type="text" name="" placeholder="Enter your Locality">
-            </div>
-            <div class="form-group">
-                <input type="text" name="" placeholder="Enter your Email Id">
-            </div>
-            <div class="form-group">
-                <input type="text" name="" placeholder="Enter your Phone Number">
-            </div>
-            <button class="btn">Submit</button>
-        </form>
-    </div>
-</body>
-
-</html>
+  
+   
+    
